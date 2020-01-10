@@ -15,3 +15,6 @@ right為方塊向右移動
 rotation為使方塊旋轉
 clear為重新開始
 
+
+Video:
+https://drive.google.com/open?id=1UT-3l_J21z1iDEMvT0lUGq7mtvoWDRLP
