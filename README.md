@@ -14,3 +14,4 @@ left為方塊向左移動
 right為方塊向右移動
 rotation為使方塊旋轉
 clear為重新開始
+
