@@ -8,12 +8,12 @@ Author:107321015, 107321022, 107321034
 腳位說明:
 module LED8x8(DATA_R,DATA_G,DATA_B,COMM,a,b,c,d,e,f,g,CLK,left,right,speed,rotation,clear,timeout);
 
-Data_G,Data_B,Data_R為8*8LED輸出腳位
-CLK為時脈
-left為方塊向左移動
-right為方塊向右移動
-rotation為使方塊旋轉
-clear為重新開始
+Data_G,Data_B,Data_R為8*8LED輸出腳位;
+CLK為時脈;
+left為方塊向左移動;
+right為方塊向右移動;
+rotation為使方塊旋轉;
+clear為重新開始;
 
 
 Video:
